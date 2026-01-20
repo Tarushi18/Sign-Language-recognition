@@ -1,5 +1,4 @@
-# Hand Gesture Recognition using MediaPipe
-
+# Sign Language Recognition
 This project implements real-time hand gesture recognition using **MediaPipe** and **TensorFlow**.
 It detects hand landmarks via webcam input and classifies hand signs and finger gestures.
 
